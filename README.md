@@ -7,17 +7,18 @@
   * 使用Vuejs全家桶+ES6+Webpack等前端最新最热的技术
   * 采用模块化、组件化、工程化的模式开发
 ## 项目功能界面
-  * 商品页
+* 商品页  
+  
    ![](./image/商品页.jpg)
-  * 商品页_公告及优惠信息
+* 商品页_公告及优惠信息  
    ![](./image/商品页_公告及优惠信息.jpg)
-  * 商品页_购物车详情
+* 商品页_购物车详情  
     ![](./image/商品页_购物车详情.jpg)
-  * 商品页_商品详情
+* 商品页_商品详情  
     ![](./image/商品页_商品详情.jpg)
-  * 评论页
+* 评论页  
     ![](./image/评论页.jpg)
-  * 商家页
+* 商家页  
     ![](./image/商家页.jpg)
 ## 技术选型
   * 前台数据处理／交互／组件化(vue全家桶)
@@ -140,3 +141,9 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+<style>
+  img{
+    width:300px
+  }
+</style>
